@@ -21,7 +21,7 @@
     "@types/chai": "3.4.34",
     "@types/chai-as-promised": "0.0.29",
     "@types/cli-color": "0.3.29",
-    "@types/debug": "0.0.30",
+    "@types/debug": "0.0.31",
     "@types/faker": "4.1.2",
     "@types/mocha": "2.2.32",
     "@types/node": "6.0.52",
