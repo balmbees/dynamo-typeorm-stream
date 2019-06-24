@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/chai": "3.4.34",
+    "@types/chai": "3.5.2",
     "@types/chai-as-promised": "0.0.29",
     "@types/cli-color": "0.3.29",
     "@types/debug": "0.0.30",
