@@ -33,7 +33,7 @@
     "dynamo-types": "2.5.0",
     "faker": "4.1.0",
     "local-dynamo": "0.5.0",
-    "mocha": "3.1.2",
+    "mocha": "6.1.4",
     "publish": "0.6.0",
     "tslint": "5.10.0",
     "typescript": "2.9.2"
