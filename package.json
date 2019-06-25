@@ -22,7 +22,7 @@
   "devDependencies": {
     "@types/aws-lambda": "^8.10.27",
     "@types/chai": "4.1.7",
-    "@types/chai-as-promised": "0.0.29",
+    "@types/chai-as-promised": "0.0.31",
     "@types/cli-color": "0.3.29",
     "@types/debug": "4.1.4",
     "@types/faker": "^4.1.5",
