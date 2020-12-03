@@ -1,6 +1,6 @@
 {
-  "name": "dynamo-types-stream",
-  "version": "2.1.0",
+  "name": "@balmbees/dynamo-typeorm-stream",
+  "version": "2.1.1",
   "description": "DynamoDB Stream Framework",
   "main": "./dst/index.js",
   "typings": "./dst/index.d.ts",
@@ -16,6 +16,9 @@
     "posttest": "npm run dynamodb:cleanup",
     "prepublishOnly": "npm run build",
     "lint": "tslint -p tsconfig.json -c tslint.json 'src/**/*.ts'"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "author": "Vingle, Inc. <eng@vingle.net>",
   "engines": {
@@ -33,7 +36,7 @@
     "chai": "4.2.0",
     "debug": "4.1.1",
     "dynamo-local": "0.0.4",
-    "dynamo-types": "2.8.0",
+    "@balmbees/dynamo-types": "2.11.0",
     "faker": "4.1.0",
     "local-dynamo": "0.5.0",
     "mocha": "6.2.2",
@@ -41,7 +44,7 @@
     "typescript": "3.7.5"
   },
   "peerDependencies": {
-    "dynamo-types": ">= 2.5.0"
+    "@balmbees/dynamo-types": ">= 2.5.0"
   },
   "dependencies": {
     "@types/aws-lambda": "^8.10.27"
