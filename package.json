@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/chai": "4.2.11",
     "@types/debug": "4.1.5",
-    "@types/faker": "4.1.10",
+    "@types/faker": "5.5.3",
     "@types/mocha": "5.2.7",
     "@types/node": "8.10.59",
     "@vingle/tslint-preset": "1.0.1",
@@ -34,7 +34,7 @@
     "debug": "4.1.1",
     "dynamo-local": "0.0.4",
     "dynamo-types": "2.8.0",
-    "faker": "4.1.0",
+    "faker": "5.5.3",
     "local-dynamo": "0.5.0",
     "mocha": "6.2.2",
     "tslint": "5.20.1",
