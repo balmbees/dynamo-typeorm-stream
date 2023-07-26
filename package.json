@@ -26,7 +26,7 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@balmbees/dynamo-types": "^2.13.2-beta.0",
+    "@balmbees/dynamo-types": "^2.13.2-beta.1",
     "@types/chai": "4.2.11",
     "@types/debug": "4.1.5",
     "@types/faker": "4.1.10",
@@ -43,7 +43,7 @@
     "typescript": "^4.1.2"
   },
   "peerDependencies": {
-    "@balmbees/dynamo-types": "^2.13.2-beta.0"
+    "@balmbees/dynamo-types": "^2.13.2-beta.1"
   },
   "dependencies": {
     "@types/aws-lambda": "^8.10.27"
